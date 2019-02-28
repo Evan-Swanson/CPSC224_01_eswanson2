@@ -1,3 +1,7 @@
+//Evan Swanson
+//Inclass Assignment 4, 2/21/2019
+//Dice simulator
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
